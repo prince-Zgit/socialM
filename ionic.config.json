@@ -1,0 +1,7 @@
+{
+  "name": "socialM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
