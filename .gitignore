@@ -41,3 +41,19 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+
+
+# Common files to ignore for Ionic/Angular
+node_modules/
+www/
+platforms/
+plugins/
+*.log
+.DS_Store
+Thumbs.db
+.tmp
+.temp
+.idea/
+.ionic/
+.sass-cache/
